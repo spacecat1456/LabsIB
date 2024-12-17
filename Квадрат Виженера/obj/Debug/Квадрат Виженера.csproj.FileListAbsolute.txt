@@ -1,7 +1,0 @@
-C:\Users\Ваня\Desktop\Квадрат Виженера\bin\Debug\Квадрат Виженера.exe.config
-C:\Users\Ваня\Desktop\Квадрат Виженера\bin\Debug\Квадрат Виженера.exe
-C:\Users\Ваня\Desktop\Квадрат Виженера\bin\Debug\Квадрат Виженера.pdb
-C:\Users\Ваня\Desktop\Квадрат Виженера\obj\Debug\Квадрат Виженера.csproj.AssemblyReference.cache
-C:\Users\Ваня\Desktop\Квадрат Виженера\obj\Debug\Квадрат Виженера.csproj.CoreCompileInputs.cache
-C:\Users\Ваня\Desktop\Квадрат Виженера\obj\Debug\Квадрат Виженера.exe
-C:\Users\Ваня\Desktop\Квадрат Виженера\obj\Debug\Квадрат Виженера.pdb
