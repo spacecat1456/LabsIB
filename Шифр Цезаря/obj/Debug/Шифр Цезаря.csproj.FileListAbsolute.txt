@@ -1,7 +1,0 @@
-C:\Users\Ваня\Desktop\Шифр Цезаря\bin\Debug\Шифр Цезаря.exe.config
-C:\Users\Ваня\Desktop\Шифр Цезаря\bin\Debug\Шифр Цезаря.exe
-C:\Users\Ваня\Desktop\Шифр Цезаря\bin\Debug\Шифр Цезаря.pdb
-C:\Users\Ваня\Desktop\Шифр Цезаря\obj\Debug\Шифр Цезаря.csproj.AssemblyReference.cache
-C:\Users\Ваня\Desktop\Шифр Цезаря\obj\Debug\Шифр Цезаря.csproj.CoreCompileInputs.cache
-C:\Users\Ваня\Desktop\Шифр Цезаря\obj\Debug\Шифр Цезаря.exe
-C:\Users\Ваня\Desktop\Шифр Цезаря\obj\Debug\Шифр Цезаря.pdb
